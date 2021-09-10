@@ -22,6 +22,6 @@ make clean
 
 ## LICENSE
 
-[gnu](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 😃
