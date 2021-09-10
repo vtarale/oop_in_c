@@ -19,3 +19,5 @@ make all
 ## How to clean
 
 make clean
+
+😃
