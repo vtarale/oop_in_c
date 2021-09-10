@@ -10,7 +10,7 @@ gcc
 
 ## Things to remember
 
-keep all the files in thhe same folder
+keep all the files in the same folder
 
 ## How to run
 
