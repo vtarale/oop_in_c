@@ -8,6 +8,10 @@ It is about object oriented programing in c
 
 gcc
 
+## Things to remember
+
+keep all the files in thhe same folder
+
 ## How to run
 
 make all
